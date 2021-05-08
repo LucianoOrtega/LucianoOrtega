@@ -7,5 +7,5 @@ My name is Luciano Damián Ortega, I'm a novice developer, I am studying the tec
 <ul>
   <li>My dream is to live and work in United States 🇺🇸. That's why I'm learning its language</li>
   <li>I have 2 dogs, whose names are Daisy and Lola</li>
-  <li>My favourite drink is <a href="https://es.wikipedia.org/wiki/Vino">Wine 🍷 and </a>.</li>
+  <li>My favourite drink is <a href="https://es.wikipedia.org/wiki/Vino">Wine 🍷</a>.</li>
 </ul>
